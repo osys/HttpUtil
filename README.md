@@ -2,7 +2,7 @@
 
 基于JDK8实现的发送HTTP请求工具类。包含 get, post, put, delete 协议的请求。即拿即用，没有引入其它 jar 依赖。
 
-使用快捷方便。传入参数、请求头的 key 和 value 都是 String 类型。
+使用方便，传入参数、请求头的 key 和 value 都是 String 类型。
 
 
 
