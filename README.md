@@ -1,5 +1,5 @@
 # HttpUtil
-基于JDK8实现的发送HTTP请求工具类。包含 get, post, put, delete 协议的请求。
+基于JDK8实现的发送HTTP请求工具类。包含 get, post, put, delete 协议的请求。即拿即用，没有引入其它 jar 依赖。使用快捷方便。
 
 # 使用例子
 ```java
